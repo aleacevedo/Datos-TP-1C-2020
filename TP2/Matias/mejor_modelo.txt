@@ -1,1 +1,0 @@
-Mejor modelo hasta ahora: XGBoost usando tokenizacion de las palabras y codificacion en bag of words, usando 741 features (palabras mas frecuentes en los tweets), algoritmo de xgboost con cross validation 4-fold, con accuracy score aprox del 0.77
